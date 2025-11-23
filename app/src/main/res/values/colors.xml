@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Dark Green Theme Colors -->
+    <color name="primary_dark_green">#001d00</color>
+    <color name="primary_dark_green_light">#003300</color>
+    <color name="primary_dark_green_dark">#001100</color>
+    <color name="accent_green">#00C853</color>
+    <color name="accent_green_light">#4CAF50</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="background_card">#FFFFFF</color>
+    <color name="background_dark">#001d00</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_on_dark">#FFFFFF</color>
+    
+    <!-- Category Colors -->
+    <color name="category_selected">#00C853</color>
+    <color name="category_unselected">#E8F5E9</color>
+    <color name="category_text_selected">#FFFFFF</color>
+    <color name="category_text_unselected">#212121</color>
+    
+    <!-- Link Colors -->
+    <color name="link_color">#00C853</color>
+    <color name="link_color_dark">#4CAF50</color>
+    
+    <!-- Status Colors -->
+    <color name="status_present">#4CAF50</color>
+    <color name="status_absent">#F44336</color>
+</resources>
